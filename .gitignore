@@ -1,0 +1,32 @@
+# Python virtual environments
+neural_net_env*/
+venv/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Output files
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files (optional - if you don't want to commit large datasets)
+data/
+*.csv
+*.npz
