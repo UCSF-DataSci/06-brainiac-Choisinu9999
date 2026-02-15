@@ -6,3 +6,4 @@ nbconvert>=7.0.0
 nbformat>=5.9.0
 numpy>=1.24.0
 pandas>=2.0.0
+tensorflow-macos>=2.15.0
